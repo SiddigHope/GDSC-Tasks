@@ -1,6 +1,11 @@
 # final_flutter_project
 
-A new Flutter project.
+A Flutter and firebase project with feature like:
+
+- login and signup with google accounts.
+- login and signup with phone number.
+- OTP verification when using phone signin and signup.
+- smooth tasks adding and managing.
 
 
 # Screenshots
