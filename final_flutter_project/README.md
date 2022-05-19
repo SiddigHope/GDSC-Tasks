@@ -6,12 +6,12 @@ A new Flutter project.
 # Screenshots
 
 <div style={{display: flex}}>
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app1.jpg" width="270" height="500" />
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app2.jpg" width="270" height="500" />
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app3.jpg" width="270" height="500" />
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app4.jpg" width="270" height="500" />
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app5.jpg" width="270" height="500" />
-  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/screenshots/todo_app6.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app1.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app2.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app3.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app4.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app5.jpg" width="270" height="500" />
+  <img src="https://github.com/SiddigHope/GDSC-Tasks/blob/main/final_flutter_project/screenshots/todo_app6.jpg" width="270" height="500" />
 </div>
 
 
